@@ -4,8 +4,8 @@
 <h3 align="center">Backend‑first Full‑Stack Developer | API & Systems</h3>
 
 <p align="center">
-  <a href="mailto:akash.Lko.2019@gmail.com">
-    <img src="https://img.shields.io/badge/Email-akash.Lko.2019%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:kashkumarsoni2022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akashkumarsoni2022%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/akashkumarsoni">
     <img src="https://img.shields.io/badge/LinkedIn-akashkumar-soni?style=for-the-badge&logo=linkedin" />
