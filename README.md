@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C0FF&center=true&vCenter=true&width=900&height=45&lines=Node.js+%2B+MongoDB+%2B+;React.js+19+%2B+TypeScript+%2B+Tailwind;OTP%2C+OAuth%2C+RBAC%2C+Payments;AWS+EC2%2FRDS%2FAmplify+%7C+Docker+%7C+Swagger" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C0FF&center=true&vCenter=true&width=900&height=45&lines=Magento+2+%7C+Adobe+Commerce+%7C+PHP;REST+%26+GraphQL+APIs+%7C+Payments+%7C+Shiprocket;React+%7C+Node.js+%7C+JWT+%7C+MongoDB;MySQL+%7C+Performance+%7C+Scalable+Systems;Git+%7C+CI%2FCD+%7C+Swagger+%7C+SonarQube" />
 </p>
 
 ---
@@ -57,6 +57,7 @@
 
 #### Services & Tools
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C86F8?logo=razorpay&logoColor=white)
+![Shiprocket](https://img.shields.io/badge/Shiprocket-2E77BC?logo=shiprocket&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white)
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-1B1F23?logo=gmail&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
