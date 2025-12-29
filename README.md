@@ -4,10 +4,10 @@
 <h3 align="center">Backend‑first Full‑Stack Developer | API & Systems</h3>
 
 <p align="center">
-  <a href="mailto:akashkumarsoni2022@gmail.com">
-    <img src="https://img.shields.io/badge/Email-akashkumarsoni2022%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:akash.lko.2019@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akash.lko.2019%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/akashkumar9">
+  <a href="https://linkedin.com/in/akashkumarsoni">
     <img src="https://img.shields.io/badge/LinkedIn-Akash%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=akashkumar-soni&style=for-the-badge&color=blueviolet" />
@@ -20,8 +20,8 @@
 ---
 
 ### About
-- 5+ years experienced MERN Full Stack Developer | Building scalable web apps end-to-end  
-- Backend-first builder shipping production features with Node.js, Express.js, MongoDB, and RESTful APIs. Expertise in auth (JWT, OAuth, RBAC), payments integration, schema modeling, and clean API documentation.
+- 5+ years experienced as a Magento (Adobe Commerce) Full-Stack Developer | Building scalable web apps end-to-end  
+- Backend-focused engineer with strong hands-on expertise in PHP, Magento 2 (Adobe Commerce), MySQL, and REST/GraphQL APIs. Experienced in custom module development, authentication & authorization, payment gateway integrations, schema/data modeling, and clean, well-documented APIs.
 - Frontend proficient in React, Redux, HTML5/CSS3 for responsive UIs. Tools: Git, Docker, AWS, Agile/Scrum.  
 - Interested in AI + Cloud; exploring RAG pipelines with embeddings, vector search, and caching.  
 
@@ -30,12 +30,14 @@
 ### Tech stack
 
 #### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Php](https://img.shields.io/badge/PHP-3178C6?logo=Php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 #### Backend
+![Adobe Commerce](https://img.shields.io/badge/Adobe%20Commerce-FF0000?logo=adobe&logoColor=white)
+![Php](https://img.shields.io/badge/PHP-3178C6?logo=Php&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -44,6 +46,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 
 #### Frontend
+![Php](https://img.shields.io/badge/PHP-3178C6?logo=Php&logoColor=white)
 ![React JS](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
