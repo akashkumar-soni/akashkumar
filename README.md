@@ -38,9 +38,7 @@
 ![Adobe Commerce](https://img.shields.io/badge/Adobe%20Commerce-FF0000?logo=adobe&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-3178C6?logo=Php&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/MERN%20Stack-000000?logo=react&logoColor=61DAFB)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-FF6F00?logo=swagger&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
@@ -50,7 +48,6 @@
 ![React JS](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111111?logo=radixui&logoColor=white)
 
 #### Cloud & DevOps
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazon-ec2&logoColor=white)
