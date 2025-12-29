@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
-<h3 align="center">Backend‑first Full‑Stack Developer | API & Systems</h3>
+<h3 align="center">Full‑Stack Developer | API & Systems</h3>
 
 <p align="center">
   <a href="mailto:akash.lko.2019@gmail.com">
