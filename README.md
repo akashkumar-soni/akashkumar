@@ -36,6 +36,8 @@
 ![Php](https://img.shields.io/badge/PHP-3178C6?logo=Php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 #### Backend
 ![Adobe Commerce](https://img.shields.io/badge/Adobe%20Commerce-FF0000?logo=adobe&logoColor=white)
